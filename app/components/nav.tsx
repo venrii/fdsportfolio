@@ -10,6 +10,9 @@ const navItems = {
     '/certs': {
     name: 'certificates',
     },
+    '/practicum': {
+    name: 'practicum',
+    },
 
 }
 
