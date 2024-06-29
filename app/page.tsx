@@ -4,7 +4,7 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         About me
       </h1>
-      <center> <img src="https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/image/image.png" alt="Picture" style="width: 122px; height: auto;"/> </center>
+      <center> <img src="https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/image/image.png" alt="Picture" /> </center>
       <br/><br/>
       <p className="mb-4">
         {`Hi, I am Franc Daniel Samonte, a Computer Science undergraduate.
