@@ -6,7 +6,7 @@ export const metadata = {
 export default function Page() {
   return (
     <section>
-        <h1 className="font-semibold text-2xl mb-8 tracking-tighter">Overview of the Practicum Engagement</h1>
+        <center><h1 className="font-semibold text-2xl mb-8 tracking-tighter">Overview of the Practicum Engagement</h1></center>
         <p className="mb-4">
             {`Fasttrack Solutions is a consultancy services company that provides world-class computerized business solutions to Enterprise and SMB markets. 
             Founded in the Philippines in 2005, Fasttrack Solutions is ONE of the largest business technologies providers in Asia Pacific and is now the 
