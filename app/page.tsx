@@ -1,9 +1,11 @@
 export default function Page() {
   return (
     <section>
+    <center>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         About me
       </h1>
+    </center>
       <center> <img src="https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/image/imagesmaller.png" alt="Picture" /> </center>
       <br/><br/>
       <p className="mb-4">
