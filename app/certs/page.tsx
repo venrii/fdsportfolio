@@ -1,5 +1,3 @@
-import { BlogPosts } from 'app/components/posts'
-
 export const metadata = {
   title: 'Certificates',
   description: 'See my certificates.',
@@ -12,7 +10,6 @@ export default function Page() {
           <p className="mb-4">
               <img src ="app/resource/ojtcoc.png" alt="My internship completion certificate."/>
           </p>
-      <BlogPosts />
     </section>
   )
 }
