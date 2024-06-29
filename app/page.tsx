@@ -2,7 +2,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        About me <img src= "https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/certs/resource/ojtcoc.png"/>
+        About me <img src= "https://github.com/venrii/fdsportfolio/blob/main/app/image/image.png"/>
       </h1>
       <p className="mb-4">
         {`Hi, I am Franc Daniel Samonte, a Computer Science undergraduate.
