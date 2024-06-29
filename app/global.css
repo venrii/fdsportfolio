@@ -35,6 +35,9 @@ html {
     background-size: cover;
     background-repeat: no-repeat;
 }
+body {
+    background-color: rgba(0, 0, 0, 0.1);
+}
 
 .prose .anchor {
   @apply absolute invisible no-underline;
