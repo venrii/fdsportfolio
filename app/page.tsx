@@ -1,5 +1,3 @@
-import { BlogPosts } from 'app/components/posts'
-
 export default function Page() {
   return (
     <section>
@@ -14,9 +12,6 @@ export default function Page() {
         My passion lies in solving complex problems and creating effective solutions,
         driving me to continually refine my abilities.`}
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
     </section>
   )
 }
