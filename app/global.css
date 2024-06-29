@@ -30,10 +30,7 @@
 }
 
 html {
-  min-width: 360px;
-}
-
-html, body {
+    min-width: 360px;
     background-image: url('https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/image/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
