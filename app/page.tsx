@@ -2,8 +2,9 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        About me <img src= "https://github.com/venrii/fdsportfolio/blob/main/app/image/image.png"/>
+        About me
       </h1>
+      <center> <img src="https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/image/image.png" alt="Picture"/> </center>
       <p className="mb-4">
         {`Hi, I am Franc Daniel Samonte, a Computer Science undergraduate.
         Currently studying at Mapua Malayan Colleges in Laguna, Philippines.
