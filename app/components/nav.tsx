@@ -1,12 +1,16 @@
 import Link from 'next/link'
 
 const navItems = {
-  '/': {
+    '/': {
     name: 'about me',
-  },
-  '/blog': {
+    },
+    '/blog': {
     name: 'blog',
-  },
+    },
+    '/certs': {
+    name: 'certificates',
+    },
+
 }
 
 export function Navbar() {
