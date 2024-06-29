@@ -7,7 +7,7 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`Hi, I'm Franc Daniel Samonte, a Computer Science undergraduate.
+        {`Hi, I am Franc Daniel Samonte, a Computer Science undergraduate.
         Currently studying at Mapúa Malayan Colleges in Laguna, Philippines.
         Throughout my college years, I have programmed various applications and software,
         honing my skills in different programming languages and technologies.
