@@ -29,18 +29,19 @@ export default function Footer() {
             <ArrowIcon />
             <p className="ml-2 h-7">github</p>
           </a>
-        </li>
+              </li>
+              <li>
+                  <a
+                      className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+                      href="/resume.pdf"
+                      download
+                  >
+                      <ArrowIcon />
+                      <p className="ml-2 h-7">resume</p>
+                  </a>
+              </li>
           </ul>
-          <li>
-              <a
-                  className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
-                  href="/resume.pdf"
-                  download
-              >
-                  <ArrowIcon />
-                  <p className="ml-2 h-7">resume</p>
-              </a>
-          </li>
+          
       <p className="mt-8 text-neutral-600 dark:text-neutral-300">
         © {new Date().getFullYear()} MIT Licensed
       </p>
