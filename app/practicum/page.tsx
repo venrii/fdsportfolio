@@ -24,7 +24,7 @@ export default function Page() {
           </p>
           <a
               className="mb-4"
-              href="/Final Report.pdf"
+              href="/final_report.pdf"
               download
           >
               <p className="ml-2 h-7">My Final Report</p>
