@@ -4,8 +4,8 @@ const navItems = {
     '/': {
     name: 'about me',
     },
-    '/certs': {
-    name: 'certificates',
+    '/blog': {
+    name: 'projects',
     },
     '/practicum': {
     name: 'practicum',
