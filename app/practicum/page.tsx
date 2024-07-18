@@ -21,8 +21,14 @@ export default function Page() {
             {`As per requirements, the total hours rendered for my practicum amounted to 324 hours. This comprised 120 hours dedicated to an online program 
             called the "CODEX Program", which focused on SQL, Microsoft Software and problem-solving techniques. The remaining 204 hours were spent 
             in work immersion, where I gained experience in the company's operational environment.`}
-
-        </p>
+          </p>
+          <a
+              className="mb-4"
+              href="/Final Report.pdf"
+              download
+          >
+              <p className="ml-2 h-7">My Final Report</p>
+          </a>
     </section>
   )
 }
