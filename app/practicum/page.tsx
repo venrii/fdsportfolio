@@ -22,13 +22,19 @@ export default function Page() {
             called the "CODEX Program", which focused on SQL, Microsoft Software and problem-solving techniques. The remaining 204 hours were spent 
             in work immersion, where I gained experience in the company's operational environment.`}
           </p>
-          <a
-              className="mb-4"
-              href="/final_report.pdf"
-              download
-          >
-              <p className="ml-2 h-7">My Final Report</p>
-          </a>
+
+          <p className="mb-4">
+              Download: 
+              <a
+                  className="mb-4"
+                  href="/final_report.pdf"
+                  download
+              >
+                  My Final Report.pdf
+              </a>
+
+                  </p>
+
     </section>
   )
 }
