@@ -24,13 +24,12 @@ export default function Page() {
           </p>
 
           <p className="mb-4">
-              Download: 
+              Download: <br></br>
               <a
                   className="mb-4"
                   href="/final_report.pdf"
                   download
-              >
-                  My Final Report.pdf
+              >My Final Report.pdf
               </a>
 
                   </p>
