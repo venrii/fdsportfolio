@@ -6,7 +6,7 @@ export default function Page() {
         About me
       </h1>
     </center>
-          <center> <img src="/Profile_picture.png" alt="Picture" /> </center>
+          <center> <img src="/face.png" alt="Picture" /> </center>
       <br/><br/>
       <p className="mb-4">
               {`Hi, I am Franc Daniel Samonte, an aspiring developer from the Philippines.`}
