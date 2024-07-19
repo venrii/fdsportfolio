@@ -30,8 +30,13 @@ export default function Page() {
                   href="/final_report.pdf"
                   download
               >My Final Report.pdf
+              </a> <br></br>
+              <a
+                  className="mb-4"
+                  href="/InternshipCompletion.pdf"
+                  download
+              >Certificate of Completion
               </a>
-
                   </p>
 
     </section>
