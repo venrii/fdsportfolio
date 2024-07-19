@@ -6,7 +6,14 @@ export default function Page() {
         About me
       </h1>
     </center>
-          <center> <img src="https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/image/imagesmaller.png" alt="Picture" /> </center>
+          <center>
+              <img
+                  src="https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/image/imagesmaller.png"
+                  alt="Picture"
+                  style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"
+              />
+          </center>
+
       <br/><br/>
       <p className="mb-4">
               {`Hi, I am Franc Daniel Samonte, an aspiring developer from the Philippines.`}
