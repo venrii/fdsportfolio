@@ -6,14 +6,18 @@ export default function Page() {
         About me
       </h1>
     </center>
-      <center> <img src="https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/image/imagesmaller.png" alt="Picture" /> </center>
+          <center> <img src="https://raw.githubusercontent.com/venrii/fdsportfolio/main/app/image/imagesmaller.png" alt="Picture" style="border-radius: 50%; width: 150px; height: 150px;" /> </center>
       <br/><br/>
       <p className="mb-4">
-        {`Hi, I am Franc Daniel Samonte, a Computer Science undergraduate.
-        Currently studying at Mapua Malayan Colleges in Laguna, Philippines.
+              {`Hi, I am Franc Daniel Samonte, an aspiring developer from the Philippines.`}
+          </p>
+    <p className="mb-4">
+              {`Currently studying at Mapua Malayan Colleges in Laguna, Philippines.
         Throughout my college years, I have programmed various applications and software,
-        honing my skills in different programming languages and technologies.
-        My passion lies in solving complex problems and creating effective solutions,
+        honing my skills in different programming languages and technologies.`}
+          </p>
+    <p className="mb-4">
+              {`My passion lies in solving complex problems and creating effective solutions,
         driving me to continually refine my abilities.`}
       </p>
     </section>
